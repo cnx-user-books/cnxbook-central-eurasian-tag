@@ -1,0 +1,2260 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Foreign Aid and Economic Growth in the Developing Countries - A Cross-country Empirical Analysis</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8c8c2f06-c07f-4e32-a37c-2936554d0319</md:uuid>
+</metadata>
+<content>
+<para id="element-968"/><para id="id14925919">ABSTRACT OF THE THESIS</para>
+<para id="element-284">Using cross-country data, I examine how foreign aid affects economic growth in developing countries over the period from 1975 to 2000. I find evidence that foreign aid significantly and negatively correlates with growth in developing countries. However, foreign aid to inland countries as well as to South Asian countries during the period of 1992-2000 is found to have a positive impact on growth. In addition, a strong divergence trend is found among countries in the data set.
+The results suggest that (i) there may be problems in the present aid providing system, where aid hinders growth of developing countries (ii) the successful experience of some inland countries and South Asian nations during the period of 1992-2000 could be a good lesson for other developing countries. Finally, a strong evidence of divergence implies that if the condition is not improved in the least developing countries, there would be a large income dispersion among developing countries in the future.
+</para><para id="id14395114"/>
+<para id="id10502758"/>
+<para id="id10488757"/>
+<para id="id10424940"/>
+<para id="id6447384"/>
+<para id="id6447388"/>
+<para id="id10374940"/>
+<para id="id14634325"/>
+<para id="id10866806"/>
+<para id="id9748105">Chapter I</para>
+<para id="id14391463">Introduction</para>
+<para id="id9727928">1.1. Background</para>
+<para id="id10860426">Foreign aid is usually associated with
+official development assistance, which in turn is a subset of the
+official development finance, and normally targeted to the poorest
+countries (World Bank,1998).</para>
+<para id="id10504401">How does foreign aid affect the economic
+growth of developing countries? This is a question which has drawn
+the attention of many scholars over time. Papanek (1972) finds a
+positive relation between aid and growth. Fayissa and El-Kaissy
+(1999) show that aid positively affects economic growth in
+developing countries. Singh (1985) also finds evidence that foreign
+aid has positive and strong effects on growth when state
+intervention is not included. Snyder (1993) shows a positive
+relation between aid and growth when taking country size into
+account. Burnside and Dollar (1997) claim that aid works well in
+the good-policy environment, which has important policy
+implications for donors community, multilateral aid agencies and
+policymakers in recipient countries. Developing countries with
+sound policies and high-quality public institutions have grown
+faster than those without them, 2.7% per capita GDP and 0.5% per
+capita GDP respectively. One percent of GDP in assistance normally
+translates to a sustained increase in growth of 0.5% per capita.
+Some countries with sound policies received only small amount of
+aid yet still achieved 2.2% per capita growth. The good-management,
+high-aid groups grew much faster, at 3.7% per capita GDP (World
+Bank, 1998).</para>
+<para id="id10504404">By contrast, other people find foreign aid
+has negative impact on growth. Knack (2000) argues that high level
+of aid erodes institutional quality, increases rent-seeking and
+corruption, therefore, negatively affects growth. Easterly, Levine
+and Roodman (2003), using a larger sample size to reexamine the
+works of Burnside and Dollar, find that the results are not as
+robust as before. Gong and Zou (2001) show a negative relation
+between aid and growth.</para>
+<para id="id10892260">Pedersen (1996) argues that it is not
+possible to conclude that the foreign aid has a positive impact on
+growth. Morrisey (2001) claims that aid works well conditional on
+other variables in the growth regression. Many other authors find
+no evidence that aid affects growth in developing countries.</para>
+<para id="id10878217">By and large, the relation between aid and
+economic growth remains inconclusive and is worth being studied
+further. In addition, geography is found to be influential on
+economic growth but so far this factor normally is neglected in the
+growth analysis (Gallup, Sachs and Mellinger, 1999). My study
+departs from other works in model, data set and approach of
+analysis.</para>
+<para id="id3877449">1.2. Research Objective</para>
+<para id="id9550534">Using an endogenous growth model for a data
+set of 39 countries over the period from 1975 to 2000, I would like
+to address the following questions (i) what is the relation between
+foreign aid and economic growth in developing countries? and (ii)
+how does this relation differ across regions? Due to the data
+limitation, only these 39 countries have been chosen. To certain
+extent, they represent various regions of the developing world with
+different characteristics and stages of development.</para>
+<para id="id10892681">1.3. Organization of the Study</para>
+<para id="id14938790">The study is organized as follows. Chapter II
+reviews the literature with various outcomes shown by different
+authors with different views and models. Chapter III provides an
+overview of the regions in the study. Chapter IV describes the data
+and methodology. Empirical results and policy implications are
+discussed in chapter V. Chapter VI concludes the study.</para>
+<para id="id14927356">Chapter II</para>
+<para id="id10566582">Literature Review</para>
+<para id="id9744130">In general, aid is found to have a positive
+impact on economic growth through several mechanisms (i) aid
+increases investment (ii) aid increases the capacity to import
+capital goods or technology (iii) aid does not have an adverse
+impact on investment and savings (iv) aid increases the capital
+productivity and promotes endogenous technical change (Morrissey,
+2001).</para>
+<para id="id9744134">Papanek (1973), in a cross-country regression
+analysis of 34 countries in the 1950s and 51 countries in the1960s,
+treating foreign aid, foreign investment, other flows and domestic
+savings as explanatory variables, finds that foreign aid has a
+substantially greater effect on growth than the other variables. He
+explains that “aid, unlike domestic savings, can fill the foreign
+exchange gap as well as the savings gap. Unlike foreign private
+investment and other foreign inflows, aid is supposed to be
+specifically designed to foster growth and, more importantly, is
+biased toward countries with a balance-of-payment constraint”. He
+also finds a strong negative correlation between foreign aid and
+domestic savings, which he believes co-contribute to the growth
+performance.</para>
+<para id="id10499163">Fayissa and El-Kaissy (1999), in a study of
+77 countries over sub-periods 1971-1980, 1981-1990 and 1971-1990,
+show that foreign aid positively affects economic growth in
+developing countries. Using modern economic growth theories, they
+point out that foreign aid, domestic savings, human capital and
+export are positively correlated with economic growth in the
+studied countries. This is consistent with the economic theory of
+foreign aid, which asserted that overseas development assistance
+accelerates economic growth by supplementing domestic capital
+formation (Chenery and Strout, 1966).</para>
+<para id="id10472771">Snyder (1993), taking country size into
+account, finds a positive and significant relationship between aid
+and economic growth. He emphasizes that “previous econometric
+analysis has not made allowance for the fact that larger countries
+grow faster, but receive less aid”. He also claims that donors
+favor small countries for a number of reasons. First, donors who
+are seeking support from recipient countries find it better to
+provide aid to many small countries than to focus on just few large
+countries. With the same amount of aid, the proportion of aid over
+GDP will be bigger in small countries compared to that of larger
+countries and as a result, give them more credits. Second, there is
+pressure on multilateral donors to deliver aid to all member
+countries and due to their feasible project size, small countries
+tend to receive more aid than they expected. Third, small countries
+tend to have historical colonial relations with donor countries,
+which are somewhat influential to donors’ aid giving decisions. The
+last reason is that trade normally has larger fraction of GDP in
+small countries than in big ones and therefore, these countries may
+be gaining more weight in donors’ assessment. Based on the model
+developed by Papanek (1972, 1973) and then extended by Mosley
+(1980) and Mosley et al. (1987), Snyder analyzes the relation
+between foreign aid inflow and the growth rate of gross domestic
+product in 69 developing countries over three periods (the 1960s,
+the 1970s and 1980-1987), incorporating country size (measured by
+gross domestic product) in the model. He argues that when country
+size is not included, the effects of aid are small and
+insignificant but when this factor is taken into account, the
+coefficient of aid becomes positive and significant.</para>
+<para id="id10472775">By contrast, Knack (2000), in a cross-country
+analysis, indicates that higher aid levels erode the quality of
+governance indexes, i.e. bureaucracy, corruption and the rule of
+law. He argues that “aid dependence can potentially undermine
+institutional quality, encouraging rent seeking and corruption,
+fomenting conflict over control of aid funds, siphoning off scarce
+talent from bureaucracy, and alleviating pressures to reform
+inefficient policies and institutions”.</para>
+<para id="id10431347">Large aid inflows do not necessarily result
+in general welfare gains and high expectation of aid may increase
+rent-seeking and reduce the expected public goods quality.
+Moreover, there is no evidence that donors take corruption into
+account seriously while providing aid (Svensson, 1998).</para>
+<para id="id10488430">A permanent rise in foreign aid reduces
+long-run labor supply and capital accumulation, increases long-run
+consumption and has no impact on long-run foreign borrowing. Using
+the optimal growth model with foreign aid, foreign borrowing and
+endogenous leisure-and-consumption choices, Gong and Zou (2001)
+show that foreign aid depresses domestic saving, mostly channels
+into consumption and has no relationship with investment and growth
+in developing countries.</para>
+<para id="id10891282">Pedersen (1996) asserts that it is still not
+possible to conclude that aid affects growth positively. Using game
+theory, he argues that the problems lie in the built-in incentive
+of the aid system itself. The aid conditionality is not sufficient
+and the penalties are not hard enough when recipient countries
+deviate from their commitments. In fact, there are incentives for
+aid donating agencies to disburse as much aid as possible. This
+hinders the motivation of recipient countries and raises the aid
+dependency, which in turn distorts their development.</para>
+<para id="id14934879">Commonly, many authors find the positive
+impact of foreign aid on growth subject to certain factors.
+Burnside and Dollar (1997), in their well-known paper “Aid,
+Policies, and Growth”, find that aid has a positive impact on
+growth in developing countries with good fiscal, monetary and trade
+policies but has little impact on countries where such policies are
+poor. They use data from 56 countries for six four-year periods
+from 1970-1973 until 1990-1993 and construct a growth convergence
+model, in which growth depends on the logarithm of real per capita
+GDP at the beginning of the period, incorporating the ratio of aid
+over GDP and an index measurement for macroeconomic policies in the
+right hand side of the equation. They explain that “aid can affect
+output only through its effect on the stock of capital, that is, to
+the extent that it is used for investment rather than consumption”.
+They argue that aid itself has small and insignificant impact but
+aid interacting with good policy has a significant positive impact
+on growth. In fact, policy seems more important for aid
+effectiveness in lower income countries. Moreover, they show that
+aid follows diminishing returns to scale. Another finding is that
+there is no tendency for total aid or bilateral aid to favor good
+policy, while multilateral aid is allocated in favor of good
+policy.</para>
+<para id="id14934883">Aid works well in a good policy environment
+and a poor country with good policy should get more aid, which is
+not always the case in reality. A well-designed aid plan can
+support effective institutions and governance by providing more
+knowledge and transferring technology and skills. It is recommended
+to decentralize the aid flows in recipient countries. Money aid is
+important but idea aid is even more important. Aid can be the
+midwife of good policy in recipient countries. In poor-policy
+countries, idea aid is especially more essential than money aid.
+This implies that in a good-policy environment, aid increases
+growth via the investment channel whereas in a poor-policy
+environment, it nurtures the reforms through policymakers training
+or knowledge and technology transfer. These non-money effects are
+believed even more important and viable than the money value of
+aid. Aid works much better where the reform is initiated or
+internalized by local government rather than when it is imposed by
+outsiders. Therefore, aid is normally more effective when it
+facilitates efficiently and timely reforms triggered by the local
+authority (World Bank, 1998).</para>
+<para id="id10877625">Foreign aid has a strong positive impact on
+economic growth in less developed countries (LDCs) for both periods
+1960-1970 and 1970-1980 when state intervention is not taken into
+account. When the state intervention variable is included in the
+regression, the effect of foreign aid gets statistically weak over
+time. Moreover, foreign aid negatively affects the domestic savings
+rate whereas per capita income, country’s size and exports
+positively affect it (Singh, 1985).</para>
+<para id="id10877629">Different types of aid have different impacts
+on growth. In a country analysis of Cote d’Ivoire from 1975 to1999,
+Ouattara (2003) categorizes foreign aid into project aid, program
+aid, technical assistance and food aid. Using a disaggregation
+approach with auto regressive techniques, he finds that (i) project
+aid displaces public savings, impact of program aid is almost
+neutral while technical assistance and food aid increase public
+savings, and (ii) project aid and to a lesser extent, program aid,
+worsen the foreign dependence of Cote d’Ivoire while technical
+assistance and food aid reduce the gap.</para>
+<para id="id10862710">On the contrary, project aid and food aid are
+found to reduce public investment whereas program aid and technical
+assistance positively affect public investment in Uganda (Mavrotas,
+2003).</para>
+<para id="id10406606">Giles (1994), applying a Granger causality
+test between foreign aid and economic growth and other diagnostic
+tests, finds a causal relationship between foreign aid loans, but
+not foreign aid grants, with economic growth in Cameroon, which
+contradicts the previous work of John Mbaku in 1993.</para>
+<para id="id6604852">Domestic resources have positive and
+significant impact on economic growth while foreign resources do
+not show any significant contribution in Bangladesh from 1972 to
+1988. However, after foreign resources are decomposed into
+different categories, we can observe that the loans are more
+effective than grants and food aid is more effective than project
+aid (Islam, 1992).</para>
+<para id="id10286679">Aid might have different effects in different
+developing countries. Chenery and Carter (1973), following the
+previous two-gap derived model of Chenery and Strout (1966) and
+using data from 50 countries over the period 1960-1970, show that
+the effects of official development assistance (ODA) on the
+development performance of countries under study are different
+among certain groups of countries. In five countries, namely
+Taiwan, Korea, Iran, Thailand and Kenya, foreign assistance
+accelerated economic growth whereas in six cases it retarded
+growth, i.e. India, Colombia, Ghana, Tunisia, Ceylon and
+Chile.</para>
+<para id="id10275756">In comparison to a no-aid pattern of growth,
+post-aid growth rates can be higher or lower depending upon three
+factors (i) initial poverty of country (ii) additional rise of
+government consumption as percentage of aid received and (iii) the
+term of aid. Ceteris paribus, a given amount of aid tends to
+increase post-aid growth if domestic savings ratio is higher, the
+percentage of aid fungible into government consumption is lower and
+the term of aid is longer. The critical assumptions are that
+government replaces portions of its savings with aid then allocates
+this freed money to other programs, which can not be cut back once
+started (Dacy, 1975).</para>
+<para id="id10481266">Incorporating export price shocks into
+Burnside and Dollar’s (1997) analysis, Collier and Delh (2001) show
+a significant and negative relation between negative shocks and
+economic growth. They argue that “the adverse effects of negative
+shocks on growth can be mitigated by offsetting increases in aid”.
+Therefore, they suggest that targeting aid towards negative shock
+experiencing countries could be more effective than towards
+good-policy countries. Using a 2.5% cut off in their sample size of
+113 countries, they find 179 positive shocks and 99 negative shocks
+episodes. They indicate that the change in aid interacted with
+positive shocks is insignificant, while the interaction of negative
+shock with the change of aid is significant at the 1% level.
+Additionally, incorporating shocks into Alesina-Dollar’s (1998)
+regression, they show that so far donors have not taken shocks into
+account in aid allocation. Finally, they claim that the aid
+effectiveness might be increased significantly if both policy and
+adverse export price shocks are considered upon determining aid
+allocation.</para>
+<para id="id9640077">In a recent paper, Easterly, Levine and
+Roodman (2003) conduct a new test on the previous work of Burnside
+and Dollar (1997). With a larger sample size (1970 to 1997 compared
+to BD’s 1970-1993), they find that the result is not as robust as
+before and therefore claim that the question of aid effectiveness
+is still inconclusive.</para>
+<para id="id10371166">In short, the results of research on the
+relation between aid and growth vary depending upon the models,
+data and countries of analysis. Therefore, the debate over the
+impact of aid on growth is on-going and left open to further
+study.</para>
+<para id="id14765788">Chapter III</para>
+<para id="id10406944">Sampled Countries and Regional
+Characteristics</para>
+<para id="id10890039">In my data set, there are 39 countries from
+different regions of various continents. Among them, there are 5
+countries from East Asia, 3 from South Asia, 2 from Europe and
+Central Asia, 13 from Latin America &amp; the Caribbean, 5 from
+Middle East &amp; North Africa, and 11 from Sub-Saharan Africa.
+Moreover, 7 out of these 39 countries are inland (or landlocked)
+ones, namely Benin, Bolivia, Botswana, Jordan, Mali, Paraguay and
+Rwanda. Appendix 2 and Appendix 3 provide brief regional profile
+and country information respectively.</para>
+<para id="id8476386">Developing countries share the following
+common characteristics (i) low standards of living, characterized
+by low incomes, large inequality, poor health, and inadequate
+education (ii) low levels of productivity (iii) high rate of
+population growth and dependency burdens (iv) substantial
+dependence on agricultural production and primary-product export
+(v) prevalence of imperfect market and limited information and (vi)
+subordination, dependence and vulnerability in international
+relations (Todaro and Smith, 2003). Appendix 1 shows the percentage
+of population living below the poverty line (US$1 per day) in
+different regions of the developing world from 1987 to 1998. South
+Asia and the Sub-Saharan Africa account for the largest proportion
+of poor people in the world, 40.0% and 46.3% respectively in 1998.
+East Asia &amp; the Pacific and South Asia performed very well in
+poverty reduction over this period, while Sub-Saharan and Latin
+American countries made very little improvements.</para>
+<para id="id10856136">Geography, along with economic and political
+institutions, really matters for economic development. Each region
+has characteristics that contribute to its economic performance.
+Europe and East Asia have benefited from their favorable climate
+and population distribution. Sub-Saharan Africa has a high
+concentration of land in the tropics, high population in the
+interior and low population in coastal regions. South Asia, Eastern
+Europe and the former Soviet Union have more population in the
+interior than along the coasts. South Asia is partly tropical and
+the most densely populated region in the world whereas the
+transition economies are non-tropical and least densely populated.
+Latin America is highly tropical with low population density and
+moderately coastal population. Inland countries are traditionally
+believed to grow slower than other countries due to the
+disadvantages in transportation and international trade access.
+Nowadays railroads, automobiles, air transport and
+telecommunications have reduced the advantages of coastlines
+relative to hinterlands, but the advantages of sea-based trade
+remain (Gallup, Sachs and Mellinger, 1999). Therefore, it is
+interesting to examine how the geographical features affect the
+aid-growth relation in developing countries.</para>
+<para id="id5474989">Understanding the characteristics of each
+specific region of the developing world is useful for this
+discussion. Therefore before proceeding, it is necessary to briefly
+go over each region’s profile.</para>
+<para id="id14977542">3.1. East Asia and the Pacific</para>
+<para id="id10495033">East Asia and the Pacific has the largest
+population (1.8 billion) and this region is the most dynamic in the
+developing world with average GDP growth of 6%. Consequently, the
+percentage of the population below the poverty line (US$1) in this
+region fell from 26.6% in 1987 to 15.3% in 1998. Even though the
+region has suffered from the 1997-1998 crisis, most countries,
+including Indonesia, the Philippines, and Thailand have now
+recovered. After the financial crisis, East Asia has reestablished
+itself as the fastest growing region in the world with a growth
+rate of 6.7%, which is a surprisingly robust given the slow pace of
+global recovery and high levels of uncertainty in the world
+economy. China continued to emerge as a key regional locomotive,
+growing by 8% and attracting nearly 40% of the growth in exports of
+other East Asian economies.</para>
+<para id="id10495037">Even though the recovery in the region has
+been affected by a number of unexpected shocks such as the events
+of September 11, SARS, the Iraq war, higher oil prices etc.,
+regional growth exceeded 5% in 2003. In the future, the outlook for
+the region remains positive, provided countries continue to focus
+on improving institutions, maintaining sound macroeconomic
+management, and strengthening governance. Furthermore, countries
+need to complete the restructuring agendas left over from the
+crisis, improve financial sector supervision and regulation, and
+undertake broader reforms to strengthen the investment
+climate.</para>
+<para id="id10487615">3.2. Europe and Central Asia</para>
+<para id="id10323636">The economies of Europe and Central Asia
+showed a good performance in 2002 with average GDP growth of 4.6%.
+Sub-regional growth differed, with 2.9% and 4.7% for Central and
+Eastern European and the former Soviet Union countries
+respectively. The Turkish economy showed an impressive return from
+the recession of 2001, with 7.8 % growth in 2002. Eight of the
+region’s economies exceeded 5%, except the Kyrgyz Republic, which
+suffered a setback (0.5% decline in GDP) as a result of temporary
+declines in gold and power production. Nevertheless, there are
+still huge differences in the levels of poverty and human
+development and in the conditions necessary for sustainable growth.
+Per capita income ranges from $200 to $10,070 in Tajikistan and
+Slovenia respectively, and the extent of poverty varies from more
+than 50% of the population in the poorer countries of the region to
+low single-digit levels in most countries in Central and Eastern
+Europe.</para>
+<para id="id3519329">3.3. Latin America and the Caribbean
+(LAC)</para>
+<para id="id10013585">LAC is a region of vast diversity, with 526
+million people who speak many different languages and dialects. It
+includes the entire continent of South America, the Central
+American isthmus, the Caribbean islands and Mexico. LAC is the most
+urbanized region in the developing world, with three-quarters of
+its people living in and around cities, but natural resources and
+agriculture remain crucial elements of many LAC economies.</para>
+<para id="id10013589">Despite immense resources and dynamic
+societies, deep inequalities of wealth persist in most LAC
+countries, with almost one-third of the region's people living in
+poverty. Economic performance has not been very good with the
+instability of some leading economies namely Brazil and Argentina.
+Over the period 1987-1998, the share of the population living on
+less than US$1 per day in this region remains almost unchanged,
+i.e.15.3% and 15.6% in 1987 and 1998 respectively (see Appendix
+1).</para>
+<para id="id14924141">3.4. Middle East and North Africa
+(MENA)</para>
+<para id="id10493886">MENA is an economically diverse region that
+includes both oil-rich countries in the Gulf and resource-scarce
+countries such as Egypt, Morocco and Yemen. The region’s economy
+over the past years has been influenced basically by two factors,
+i.e. the oil price and the mix of economic structure and state
+policies. In the 1980s, many countries in the region had undertaken
+reforms, which induced tremendous improvements in economic growth
+by the late 1990s.</para>
+<para id="id10493890">However, the region is still facing economic
+and social problems, among which the most serious one is the
+unemployment, estimated at about 15% of the workforce. There are as
+twice as many jobless young people in some countries compared with
+regional average, requiring the creation of 4 millions jobs a year
+in the next few years in order to accommodate new entrants into the
+labor market. The Iraq war and the ongoing Palestine-Israel
+conflict also had a negative impact on the economic performance of
+the region in 2002. As a result, regional economic growth fell from
+3.2% in 2001 to 3.1% in 2002 with continuing declines of investors’
+confidence, exports and tourism.</para>
+<para id="id9673283">3.5. Sub-Saharan Africa</para>
+<para id="id10571281">Africa has continued to make progress in many
+areas. Sixteen out of 47 countries achieved on average more than 4%
+growth over the last decade. Investment and trade trends have been
+steady. Net foreign direct investment (FDI) to Africa rose to $6.8
+billion in 2001 but was heavily concentrated in oil-exporting
+countries and South Africa. Africa had the highest returns on FDI
+in the world, and the flow of workers’ remittances back to the
+continent doubled in only two years, reaching $4 billion in
+2002.</para>
+<para id="id10571285">Nevertheless, the continent continues to face
+enormous development challenges. Half the population lives on less
+than $1 a day. The share of poor population remains unchanged over
+the period 1987-1998. This is the region with lowest income per
+capita and highest population growth. Lack of safe water, HIV/AIDS
+and political conflicts are the burning issues of the region.
+Overall GDP growth is roughly 3%, almost equaling the population
+growth.</para>
+<para id="id14404838">Even though the donor community has been
+providing huge aid amount to this region, its economic performance
+is still very poor. Obviously, the question lies not in the
+quantity of aid but in its effectiveness, which remains
+ambiguous.</para>
+<para id="id9844310">3.6. South Asia</para>
+<para id="id14612225">South Asia is the second largest region in
+terms of population in the developing world, with 1.4 billion
+people. It experienced rapid economic and social development during
+the 1990s. Although it has been among the world's fastest growing
+regions, it remains a region with second highest share of
+population living below the poverty line, i.e. 40% in 1998.</para>
+<para id="id10483039">After years of inward-looking economic
+policies and tight regulation, intensive reforms, which started in
+the 1990s, have been contributing largely to the acceleration of
+economic growth of the region. South Asian nations reduced tariffs,
+removed trade barriers, dismantled restrictions on domestic and
+foreign private investment, and reformed their financial systems.
+Average tariff rates have declined from between 90% to 100% in the
+1980s to between 17% and 32% today.</para>
+<para id="id9090696">As a result, the region experienced rapid
+growth during the 1990s, averaging 5.9% annually and 4.3% in 2002.
+Trade liberalization has been an important component of structural
+reform efforts among the South Asian countries since the mid-1980s,
+with Sri Lanka leading the way. Merchandise trade as a share of GDP
+has nearly doubled in some countries in the last decade. Trade
+liberalization played a positive role in supporting GDP growth
+rates of 5% and higher.</para>
+<para id="id9356346">However, South Asia still has the lowest
+proportion of foreign direct investment to GDP in the world at just
+0.5% of GDP. Despite great improvements in nutrition, reproductive
+as well as children's health and education, this is still a region
+with many serious problems. Child malnutrition still remains among
+the highest in the world with almost 50% of children below the
+standards for weight by age. South Asian illiteracy rates, 45%, are
+still the highest in the world.</para>
+<para id="id3063528">Due to the lack of data, most of developing
+countries in Europe and Central Asia are excluded from the sample
+of this study. Therefore the focus of the study is the countries in
+East Asia, South Asia, Sub-Saharan Africa, Latin America &amp; the
+Caribbean and then inland countries.</para>
+<para id="id3552710">The purpose of the study is to investigate how
+aid affects growth and how this relation varies across regions of
+the developing world. Therefore, the regional dummies and then the
+slope dummies, i.e. the interaction terms of foreign aid with
+corresponding regions are introduced in the regressions
+accordingly. The regional dummies enable us to distinguish the
+intercepts of the focused regions with that of other regions while
+the slope dummies differentiate the slope of coefficients of those
+regions with that of the others. East Asia, South Asia and the
+Sub-Saharan Africa regions have been chosen for their typical
+geographical characteristics and difference in economic
+performance. Inland (or landlocked) countries are also included to
+explore how geographical disadvantages affect the aid-growth
+relation.</para>
+<para id="id10301799">Chapter IV</para>
+<para id="id10577518">Methodology and the data</para>
+<para id="id14202699">4.1. Model</para>
+<para id="id4038467">Based on the endogenous growth theory, I
+construct my model following the one that Barro (1991) developed
+and then incorporate foreign aid as an additional explanatory
+variable. The major difference between endogenous models and the
+neoclassical ones is that the concept of capital in the endogenous
+theory is broader in the sense that it includes human capital and
+there are increasing instead of diminishing returns to scale.
+Endogenous models rely on the existence of externalities,
+increasing returns and a lack of inputs that can not be accumulated
+(Sala-i-Martin, 1994). On the other hand, the key assumption of the
+neoclassical model is that the only difference across countries
+lies in their initial level of capital. In reality, countries may
+differ in many other ways such as level of technology, propensity
+to save, population growth rate, etc. (Sala-i-Martin, 1996).
+Therefore, they may have different steady states and the growth
+rate of an economy is positively related with the distance from its
+own steady state. A poor country tends to grow faster than a rich
+country, but only for a given quantity of human capital (Barro,
+1991). In other words, there is a conditional convergence.</para>
+<para id="id9769010">Barro’s model has the following form:</para>
+<para id="id10409582">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id9709018">where 
+<!--Sorry, this media type is not supported.-->is country i’s
+growth rate of GDP per capita between times t-T and t, 
+<!--Sorry, this media type is not supported.-->is its level of per
+capita GDP at time t-T, and 
+<!--Sorry, this media type is not supported.-->is a vector of other
+explanatory variables.</para>
+<para id="id10511998">Compared to the traditional neoclassical
+models, this model allows for increasing returns to scale and
+permanent effects of aid on growth. If the imported capital is of a
+higher level of technology than domestic capital, then aid can
+increase the long-run growth rate.</para>
+<para id="id8987743">My model takes the following form:</para>
+<para id="id10504258">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id14399108">where β0 is the intercept, GROWTH is GDP per
+capita growth, INITIALGDP is the GDP per capita at the beginning of
+the study period, SAVING is gross domestic savings over GDP, FDI is
+foreign direct investment over GDP, ODA is official development
+assistance over GDP, SCHOOL is the number of secondary pupils over
+population, TRADE is percentage of trade to GDP, POPULATION is the
+population growth rate and ε is the disturbance term. SAVING and
+FDI are proxies for physical capital accumulation while SCHOOL is a
+proxy for human capital. TRADE is expected to affect growth
+positively whereas POPULATION does so adversely. ODA (or foreign
+aid) can go either into physical capital formation if the aid is
+capital-intensive or into human capital investment if the aid is
+knowledge or technology intensive. As Burnside and Dollar (1997)
+indicate, aid is effective only if it is invested, not consumed. I
+would stress that aid is even more effective and viable if it is
+invested in human capital rather than in physical capital of the
+recipient countries.</para>
+<para id="id5592695">Barro (1991) argues that economic growth is
+negatively related with initial GDP per capita holding human
+capital constant, while it is positively related with human capital
+holding initial per capita GDP constant. This implies that the
+growth rate is expected to be negatively related with the initial
+level of income only if countries are similar in investment, human
+capital accumulation and population growth rate. The growth rate of
+those countries, which have the same level of per capita GDP, tends
+to differ depending upon the human capital accumulation.
+Empirically, evidence for convergence is found among the US states,
+the European regions, the Japanese prefectures and within OECD
+countries.</para>
+<para id="id10379045">The savings rate positively affects growth
+and the population growth rate does so inversely. Savings raises
+capital stock and helps to improve social and economic
+infrastructure. Theoretically, high population growth normally
+entails economic, social and environmental problems. This implies
+that countries with higher savings rates grow faster and those
+countries with higher population growth rates tend to grow slower.
+However, as some people argued, population growth, and along with
+it the rise in the labor force, is considered to contribute
+positively to economic growth thanks to the lager pool of available
+productive labor and greater potential domestic market. Still,
+whether population growth affects economic growth positively or
+negatively in labor-surplus developing countries remains a
+controversial issue (Todaro and Smith, 2003).</para>
+<para id="id13564554">Trade is the engine of growth, as seen in the
+development history of the advanced nations in the nineteenth and
+early twentieth centuries. Countries benefit from trade thanks to
+the specialization of production based on their comparative
+advantages and economies of scale. Furthermore, trade is expected
+to have a positive impact on growth in the long-run in terms of
+positive externalities such as imported technology and increased
+knowledge base. However, developing countries are currently facing
+the problem of declining terms of trade, in which the price of
+their exports relative to their imports price falls. Trade barriers
+imposed by the developed countries are pressing issues
+nowadays.</para>
+<para id="id13564558">Theoretically, foreign direct investment
+(FDI) is believed to enhance economic growth through improvement in
+technology, efficiency and productivity. In short, it is a channel
+through which advanced technology and management practices are
+transferred from developed to developing countries.</para>
+<para id="id10450234">The impact of ODA or foreign aid though,
+still remains ambiguous but likely to be positive in good-policy
+countries where the reform is initiated by local government and
+supported timely and efficiently by donors. However, a number of
+factors such as the fungibility of aid, poor institutions and
+corruption or the likes, may hinder the efficiency of aid. How does
+foreign aid affect growth in developing countries and how does this
+relation vary across regions? These are the issues that the study
+will focus on.</para>
+<para id="id10450238">Investments in human capital are supposed to
+be positively related with growth. It is the key input to the
+research sector, which generates the new products or ideas that
+underlie technological progress. Other things being equal,
+countries with higher human capital tend to grow faster (Barro,
+1991). This implies that the coefficient of SCHOOL is
+conventionally expected to be positive.</para>
+<para id="id6423209">As mentioned earlier, in order to investigate
+the impact of aid on growth across regions, dummies EASTASIA,
+SOUTHASIA and SUBSAHARA are used for East Asia, South Asia,
+Sub-Saharan Africa regions respectively. Additionally, an INLAND
+dummy for inland countries under study is also included. Then, the
+slope dummies for these respective regions, i.e ODA*EASTASIA,
+ODA*SOUTHASIA, ODA*SUBSAHARA and ODA*INLAND are
+incorporated.</para>
+<para id="id10854937">4.2. Estimation techniques</para>
+<para id="id10496669">The Ordinary Least Squared (OLS) technique is
+used to estimate the effects of explanatory variables on the GDP
+per capita growth. 1</para>
+<para id="id10885884">1 The diagnostic tests, such as
+Breusch-Godfrey, White Correction of Standard Errors, Ramsey RESET
+and Jarque-Bera tests are conducted to check for the problems of
+autocorrelation, heteroskedasticity, wrong functional form use and
+residual non-normality respectively. A multicollinearity test and
+F-test for every regression are also conducted
+correspondingly.</para>
+<para id="id10413322">4.3. Data description</para>
+<para id="id3045743">Initially, I tried to collect data on GDP,
+gross domestic saving, foreign direct investment, official
+development assistance, secondary school pupils, trade and
+population for 137 developing countries over the period from 1975
+to 2000 from World Development Indicators (WDI). Due to the
+limitation of data, finally a sample of 39 countries was
+obtained.</para>
+<para id="id6488862">GDP is measured in 1995 constant US$, whereas
+gross domestic savings, FDI and ODA are available in current US$.
+Therefore the values of these latter three variables has been
+converted into constant 1995 US$, using a deflator and then
+computed as a fraction of GDP. The ratio of secondary school pupils
+to population is used as a proxy for human capital accumulation.
+The trade variable is measured as the percentage of GDP and the
+population variable is the population growth rate.</para>
+<para id="id10301548">Based on the World Bank (1998) statistics
+that 1991 is the year when the world foreign aid reached its peak
+(see Figure 1), the data set is divided into three subsets, i.e.
+the sub-periods of 1975-1991 and 1992-2000 and the overall period
+of 1975-2000 respectively.</para>
+<para id="id14442517">Since the focus of the study is the impact of
+foreign aid on economic growth, I will concentrate on the
+coefficients of ODA, the regional dummies and their slope dummies.
+Other variables will also be discussed from time to time.</para>
+<para id="id14483817">Chapter V</para>
+<para id="id10495280">Empirical results and policy
+implications</para>
+<para id="id14531467">This chapter describes the regression output
+for each sub-period 1975-1991 and 1992-2000 as well as the overall
+period from 1975 to 2000. Based on the empirical results, the
+policy implications are discussed correspondingly.</para>
+<para id="id8901131">In total, there are 9 regressions for 3
+respective periods meaning that there are 3 regressions for every
+period. Regressions 1, 2 and 3 are for sub-period 1975-1991,
+regressions 4, 5 and 6 are for sub-period 1992-2000 and regressions
+7, 8 and 9 are for the overall period 1975-2000. The regression
+process is repeatedly similar for each period. In the first
+regression of each period, i.e. regressions 1, 4 and 7, the
+dependent variable, per capita GDP growth, has been regressed on
+the explanatory variables, namely initial GDP per capita, SAVING,
+FDI, ODA, SCHOOL, TRADE and POPULATION. Then regional dummies and
+their slope dummies, i.e ODA*EASTASIA, ODA*SOUTHASIA and
+ODA*SUBSAHARA, are included in the second regression of each
+period, i.e. regressions 2, 5 and 8 to explore how they affect the
+relation between aid and growth. Finally dummy for inland countries
+and its slope dummy, ODA*INLAND are included in the last regression
+of each period, i.e. regressions 3, 6 and 9 to investigate how the
+geographical features influence the relation between aid and
+growth. Those slope dummies indicate by how much the slope
+coefficient of countries from the above-mentioned regions differs
+from that of countries in other regions.</para>
+<para id="id8901135">In the regression analysis, the White’s
+Correction of Standard Errors have been used whenever
+heteroskedasticity problem arises.</para>
+<para id="id9080942">5.1. Sub-period 1975-1991</para>
+<para id="id10450551">In regression 2, the Jarque-Bera statistic is
+6.45, which is larger than the critical value at the 5% level,
+rejecting the null hypothesis that the residual follows normal
+distribution. Consequently, outliers are found in observations 6,
+14, 18, 34 and 36. Hence, dummies for these outliers are used to
+detect this non-normality problem. As a result, the Jarque-Bera
+statistic then falls to 2.27 showing that the residual now follows
+normal distribution. No evidence of autocorrelation,
+multicollinearity or wrong functional form was found based on
+Breusch-Godfrey, correlation and Ramsey RESET tests
+respectively.</para>
+<para id="id14644594">For the period from 1975 to 1991, as Table 1
+shows, there is a strong negative correlation between economic
+growth and foreign aid (ODA). The coefficient of the ODA variable
+is consistently negative and significant at the 10% level across
+regressions. The coefficients of both regional dummy and slope
+dummy for Sub-Saharan Africa are negative and significant at the
+10% level with t-statistics 1.65 and 1.38 respectively in
+regression 2. The INLAND dummy and its slope dummy, i.e.
+ODA*INLAND, are positive and significant at the 15% and 10% levels
+respectively in regression 3. These results strongly suggest that
+there are differences in aid-growth relation between inland
+countries as well as those in Sub-Saharan Africa and the rest of
+developing countries from 1975 to 1991. Aid to the sampled inland
+countries contributes to growth while aid to Sub-Saharan countries
+hinders growth.</para>
+<para id="id9744665">Across regressions in Table 1, the sign of the
+explanatory variables are basically consistent with the theory. The
+strongly positive coefficient of initial GDP per capita shows a
+divergence instead of convergence among the countries in the
+sample. Since these developing countries have different levels of
+technology, investment and population growth, they have different
+steady states. Those countries that have higher initial GDP level
+will accelerate faster. TRADE and SCHOOL have positive impact on
+economic growth but SAVING, FDI and POPULATION are
+insignificant.</para>
+<para id="id8487503">5.2. Sub-period 1992-2000</para>
+<para id="id10481394">As shown in Table 2, the coefficient of ODA
+is negative and significant in regressions 4 and 6. Note that slope
+dummies ODA*SOUTHASIA and ODA*EASTASIA are significant at the 15%
+level in regression 5 with t-statistics 1.15 and 1.13 respectively.
+The sign of slope dummy ODA*SOUTHASIA is positive while that of
+ODA*EASTASIA is negative. However, the dummies for these two
+regions, i.e. SOUTHASIA and EASTASIA, are not significant
+suggesting that they have the same intercept but different slope.
+Dummy INLAND and its slope dummy ODA*INLAND are positive and
+significant at the 10% level with t-statistics 1.39 and 1.42
+respectively (regression 6). This implies that during the period
+1992-2000, aid has a positive impact on growth in the studied
+inland countries and a differentially positive impact on growth in
+South Asian countries. The coefficients SUB-SAHARA and of
+ODA*SUBSAHARA are insignificant in regression 5.</para>
+<para id="id10890926">Other explanatory variables are consistent
+across regressions with positive coefficients of initial level of
+GDP per capita (i.e. in 1992), SAVING, TRADE and SCHOOL. The
+coefficients of FDI and POPULATION are insignificant.</para>
+<para id="id10890931">5.3. Overall period 1975-2000</para>
+<para id="id3714778">As Table 3 shows, the coefficient of ODA is
+consistently negative and significant at the 5% level across all
+regressions. The coefficients of regional dummy SUBSAHARA and its
+slope dummy ODA*SUBSAHARA are negative and significant at the 10%
+and 15% level respectively in regression 8. Dummy INLAND and its
+slope dummy ODA*INLAND are positive and significant at the 10%
+level in regression 9. These are evidences further consolidate the
+results of previous regressions that aid to the studied inland
+countries contributes to growth while aid to Sub-Saharan Africa
+hinders growth.</para>
+<para id="id3714783">The coefficients of other variables, i.e.
+GDP1975, TRADE and SCHOOL are positive and significant while that
+of POPULATION, SAVING and FDI are insignificant across regressions
+for this overall period.</para>
+<para id="id9516187">5.4. Policy Implications</para>
+<para id="id4970193">5.4.i. Implications of the negative relation
+between aid and growth</para>
+<para id="id3065535">From the above regression results, the
+following findings can be summarized (i) in general, economic
+growth has negative relation with foreign aid in the developing
+countries (ii) foreign aid to the studied inland countries as well
+as South Asian countries during the period 1992-2000 has positive
+impact on growth and (iii) there is strong divergence trend among
+countries in the sample.</para>
+<para id="id9628848">As discussed above, the foreign aid is likely
+to hinder the economic growth for some reasons. In countries where
+the institutional environment is distorted, aid could be fungible
+into financing the government’s consumption instead of being
+effectively invested. Saving displacement, aid dependency
+enhancement also badly affects growth of the recipient countries.
+Foreign aid and windfalls in countries characterized by a divided
+policy process are associated with increased corruption (Svensson,
+1998). Foreign aid reduces long-run capital accumulation and labor
+supply (Gong and Zou, 2001). Moreover, depending on the marginal
+propensity to spend on the export goods and the conditions of aid,
+the foreign aid can possibly improve the donor’s terms of trade
+while make the recipient worse off (Krugman and Obsfeld,
+2003).</para>
+<para id="id8987641">The negative relation between aid and growth
+is nothing new in the aid literature and this is just an additional
+evidence of this kind. However, it is noteworthy that the
+coefficient of aid is consistently negative and highly significant
+across regressions. This results force us to think more carefully
+about how to improve the effectiveness of aid. Reforms are
+certainly necessary, not only for recipients but also for donors,
+especially multilateral aid agencies. It is widely accepted that
+aid works well in good-policy environment and in reality there are
+many good examples of success, for instance Ethiopia, Uganda, Viet
+Nam, India etc (World Bank, 1998). Aid is more effective when it is
+used to facilitate timely and efficiently the reforms initiated by
+the local governments, not to condition the reforms. Put it another
+way, the reform should be internalized, not imposed by outsiders.
+What aid does is “to help good governments to survive long enough
+to solve the problems” (World Bank, 1998). Countries may learn from
+the successful experiences of others, but need to tailor
+appropriately their own action plans. Aid is more effective and
+viable if it finances government bureaucrats training or
+policymakers’ overseas education and then nurtures the reforms
+initiated by them.</para>
+<para id="id8987645">In reality, the World Bank structural
+adjustment programs and IMF stabilization programs failed in many
+cases due to the lack of appropriateness and strict penalty upon
+bad performance. What important is the “ownership”, which infers
+the commitment to prudent economic policies among the policymakers
+(Graham and O’Hanlon, 2001). Conditionality is unlikely to bring
+about lasting reform if there is no strong domestic movement for
+change (World Bank, 1998). Therefore, conditionality should work in
+the way that ensures the effectiveness of loan where the reforms
+are in place. Rewarding good performers in aid allocation is a good
+way to encourage other recipient countries to learn from them. More
+importantly, the penalty should be implemented strictly upon the
+violation of conditional terms. Loans should be postponed or even
+terminated unless further positive evidence is accorded.</para>
+<para id="id2980201">The current patterns of channeling aid through
+centralized governments in recipient countries may reduce the
+timeliness and efficiency of aid. It is found that the aid is more
+effective if it is delivered directly to the working level local
+authorities. Hence, the emerging role of NGO community is widely
+attracting attention (World Bank, 1998).</para>
+<para id="id10510241">The present coordination and cooperation
+among donors is problematic. Most of donors and aid agencies have
+their own objectives and different plans in providing aid. “Raising
+flag” is a common phenomenon among donors and aid agencies.
+Therefore, instead of cooperating, they are normally stepping on
+each other’s toes by undertaking different approaches. As a result,
+the overall aid effectiveness on the growth of the nation most of
+the time fails to succeed, even though many aid projects are
+assessed effectively. This explains why many countries, such as
+Zambia, while receive so much aid from different resources, still
+stagnate over time. Moreover, it has been found that program aid
+and technical aid are more effective and sustainable than project
+aid (Marvrotas, 2003). Thus, it is better to finance long-term and
+strategic programs rather than short-term projects. But what
+matters here are the incentives of donors, especially multilateral
+aid agencies, in disbursement rather than in compliance
+enforcement. Short-term projects are likely to provide them quicker
+and more easy-to-achieve results than long-term, large-scale
+programs. Donors have strong incentives to continue lending even
+though the conditions are not met. For instance, World Bank must
+make loans to remain in operation (Graham and O’Hanlon,
+2001).</para>
+<para id="id10510245">The results that foreign aid to Sub-Saharan
+Africa has negative impact on growth (regressions 2 and 8) are
+consistent with previous finding of Collier and Gunning (1999). As
+the matter of fact, the aftermath of colonialism is more serious in
+Africa than anywhere else. Sub-Sahara Africa is especially hindered
+by its tropical location, high prevalence of malaria, small portion
+of people living near the coast, and low coastal population density
+(Gallup, Sachs and Mellinger, 1999). Weak institutions, poor
+economic endowment, widespread corruption and various ethnic,
+political and religious conflicts are holding up this region for
+long time. Africa is especially vulnerable to terms of trade
+shocks, famines, political conflicts, drought and floods (Morrisey,
+2001). It is found that African nations have aid-to-GNP ratios more
+than ten times that of Latin America or East Asia, but still suffer
+inferior economic performance. Problematically, within Africa,
+countries with poor economic policies have received more aid per
+capita than those with responsible policies (Graham and O’Hanlon,
+2001).</para>
+<para id="id10274109">In a distorted environment of Africa, if
+donors just simply provide aid with the same uniformed
+conditionality like elsewhere, the failure is inevitable. Figure 2
+shows a typical example of Zambia, which has received such a huge
+amount of aid, yet the income per capita is only around US$600, not
+US$20,000 as expected (World Bank, 1998). Nigeria, Tanzania may
+also be examples of failures. Even though there some success
+stories, namely Botswana, Mauritius, Ghana, Ethiopia, Rwanda, Mali
+and Uganda, they account for such a small number out of aid
+recipient countries in the continent. The major cause is that
+donors do not favor good policy countries and penalize the poor
+performers. Consequently, the aid dependency is getting more and
+more serious. Widespread corruption and fungible aid also make the
+situation worse.</para>
+<para id="id10274113">The policy implication here is that for
+Africa, the money aid is necessary but the idea aid is even more
+important. It would be more sustainable if aid supports the
+policymakers training or education and then nurtures institutional
+reforms initiated by these well-trained policymakers. Put it
+another way, aid better be “the midwife of a good policy”. There
+may be an urgent need of a special mechanism for Africa focusing on
+education reforms based on successful cases of some countries.
+Leaders in African countries should play an active role in
+initiating and sustaining anti-corruption campaigns, public
+administration and legal system reforms. From the experience of
+Indonesia, where overseas educated bureaucrats ignite and sustain
+the institutional reform process, aid could be more effective to
+finance the overseas education of young and potential leaders.
+However, as mentioned earlier, this is a very long-term human
+capital investment, of which the outcomes are still ambiguous.
+Therefore, it is unlikely that donors have any interest in these
+types of programs, unless they really think strategically and
+forego their short-term incentives. Additionally, better
+conditionality is certainly important, in the sense that it should
+be persistent and strict, rewarding good performers and strictly
+penalizing bad ones.</para>
+<para id="id7833887">By and large, there are many things that need
+to be improved by both donors and recipients. For recipients, the
+policy and institutional environment must be improved with
+willingness and a strong commitment to reform. For donors, better
+assessment criteria and conditionality must be applied, i.e. better
+designed programs, more efficient coordination and cooperation and
+last but not least, the reforms of aid agencies.</para>
+<para id="id10499479">5.4.ii. Experience of inland countries and
+South Asian nations during the period 1992 to 2000</para>
+<para id="id10308932">Based on the results that foreign aid to the
+studied inland countries and South Asian nations during the period
+of 1992-2000 has positive impacts on growth, it is interesting to
+review the experience of those countries recently.</para>
+<para id="id10481732">Let’s look at the recent experience of inland
+countries first. Among 7 inland countries in the study, there are 2
+Latin American countries, i.e. Bolivia and Paraguay, 4 African
+countries namely Benin, Botswana, Mali and Rwanda and 1 country
+from Middle East, Jordan. Most of these countries have undergone
+successful institutional and financial reforms, macroeconomic
+stabilization, private sector encouragement, trade promotion, and
+intensive investments in human capital recently. Therefore, despite
+the unfavorable natural conditions of the landlocked location, many
+of them have achieved tremendous economic performance. Botswana is
+one of the fastest growing countries in the developing world with a
+GDP growth rate of 7% over the past two decades. Benin achieves a
+4.9% average annual growth rate from 1991 to 2001. Rwanda has grown
+at between 6 to 9% during the period 1994 to present. Jordan and
+Mali attain 4.38% and 2.5% growth rates respectively. Bolivia and
+Paraguay are recovering from recession. With the exception of
+diamond trade in Botswana, other countries, such as Jordan and
+Mali, are endowed with very scare natural resources and
+disadvantages in climate and international sea transportation
+access. However, each of them has their own approach to economic
+improvement. Jordan has been investing intensively in education and
+trade promotion. Mali concentrates on macroeconomic stabilization
+and economic liberalization. Rwanda focuses on policy and
+institutional reforms for instance rationalizing the tax system,
+introducing VAT, improving expenditure management, removing ghost
+workers from public service payrolls, launching privatization
+program, granting independence to the Central Bank, liberalizing
+exchange rates and prices, implementing financial reform and
+reducing tariffs. Benin has been strengthening economic management
+since 1990s. The government of Botswana has managed the country’s
+resources prudently, controlled expenditure and invested in human
+and physical capital. Bolivia, after a time of difficulty and
+uncertainty, has paid much attention to improving its critical
+infrastructure, expanding the basic services and strengthening
+public institutions. The donor and NGO community plays an important
+role in the reform process in most of these countries, especially
+in Rwanda, Mali, Benin and Botswana.</para>
+<para id="id10481736">Recent experience of some South Asian
+countries in the study is another good example of success.
+Bangladesh has performed relatively well over the last decade with
+average annual GDP growth of 5% with more and more entrepreneurs
+emerging recently. Good macroeconomic management has kept inflation
+relatively low. Recent reforms in fiscal management, governance,
+state-owned enterprises, banking, telecommunication and energy have
+shown promising results. Increasing FDI flows with the amount of
+private FDI of nearly US$ 400 million in fiscal year 1997-1998
+strengthened infrastructure, energy and export-oriented industries
+(World Bank, 2003a).</para>
+<para id="id12421381">The National Strategy for Economic Growth,
+Poverty Reduction and Social Development, which is Bangladesh's
+Interim Poverty Reduction Strategy, aims to substantially reduce
+chronic poverty and invigorate social development. It focuses on
+five key areas (i) pro-poor economic growth for increasing income
+and employment of the poor (ii) human development of the poor
+through education, health, nutrition, and social interventions
+(iii) women's advancement and closing of gender gaps in development
+(iv) social safety nets for the poor and (v) participatory
+governance for enhancing the voice of the poor and improving well
+being in areas such as security and social inclusion and removing
+institutional hurdles to social mobility. The strategy also sets a
+medium-term macroeconomic framework and addresses the issues of
+trade reforms, governance, and sector-specific reforms.</para>
+<para id="id8369522">It is noteworthy that the NGO community in
+Bangladesh is one of the most active in the world. The strong
+partnership between government and NGO community in many areas such
+as micro-credit, non formal education and assistance with social
+mobilization has contributed effectively to the successful economic
+performance of the country.</para>
+<para id="id8369525">Pakistan has made significant development
+progress in its 56 years since independence. Health and education
+services have expanded and improved, and life expectancy has
+increased from 59 years in 1990 to 63 years in 2001. Infant and
+maternal mortality rates have dropped, as have illiteracy rates.
+After a decade of inward-looking policies, in November 1999, the
+country launched a significant economic reform program and has
+since achieved considerable improvements. In 2002, the GDP grew at
+5.1% while inflation remained low at 3.3% and the budget deficit
+was 4.6% of GDP (World Bank, 2003b).</para>
+<para id="id4970268">Donors support Pakistan’s fundamental reform
+through a program of analytical services, institutional capacity
+building, and lending. The World Bank assistance strategy focuses
+intently on supporting the government's development strategy and is
+organized around three mutually reinforcing pillars (i)
+strengthening macroeconomic stability and government effectiveness
+(ii) strengthening and enabling the investment climate and (iii)
+supporting pro-poor and pro-gender equity policies.</para>
+<para id="id9276818">Sri Lanka was the one of the first developing
+countries which understood the importance of human resource
+investment. As a result, it has achieved human development outcomes
+more consistent with that of high income countries. Sri Lanka
+liberalized its economy in the 1970s, far ahead of the other
+developing nations. Its economic performance has been stable and
+positive thanks to sound macroeconomic management and progress in
+trade liberalization and financial sector reform. Sri Lankan income
+per capita is among the highest in the region, at US$820 (World
+Bank, 2003c). Furthermore, unemployment and inflation are
+historically low, the external current accounts have been
+strengthened, export increases and diversifies and foreign direct
+investment rises. These are factors that contribute to the
+successful performance of Sri Lanka over past decades.</para>
+<para id="id10572709">Sri Lanka’s Country Assistance Strategy (CAS)
+strongly supports the government’s view that it is imperative that
+the peace process must be accompanied by an equally determined
+economic reform process to unleash the strong potential of the
+economy. It supports the government’s efforts to create an
+environment conducive to healthy growth of the private
+sector, which includes improvements in the financial sector,
+utilities, and regulatory capacity. Much of this support would be
+in the form of budgetary assistance, to help finance the
+implementation of “Regaining Sri Lanka.”</para>
+<para id="id14506863">The common perception from the experience of
+the above-mentioned countries is that they have been implementing
+successful macroeconomic management stabilization, trade promotion,
+economic liberalization and intensive human capital investment.
+Foreign aid is effective when it supports reforms trigged by local
+government, which is clearly illustrated by the case of Botswana
+and Sri Lanka. Jordan and Sri Lanka show a great example of how
+important human capital investment is in the development process.
+The role of an active and empowered NGO community is vital, with
+good partnership and coordination with local government. This can
+be learnt from the case of Bangladesh. The valuable experience of
+these inland countries and South Asian nations provides good “food
+for thought” to donors and policy makers across the world. This
+finding is consistent with the previous result of Burnside and
+Dollar (1998), which is shown in Figure 3.</para>
+<para id="id8254293">Chapter VI</para>
+<para id="id6837258">Concluding remarks</para>
+<para id="id10337942">In this study, I have investigated several
+questions regarding the relation between foreign aid and economic
+growth. The primary concern has been the impact of aid on growth in
+developing countries. Overall, foreign aid is found to be
+significantly and negatively correlated with growth. This finding
+is another evidence showing the negative relation between economic
+growth and aid, which implies that there may be problems in the
+present aid providing system. There are a number of underlying
+causes, such as the fungibility of aid, aid dependency, bad
+economic management, corruption and poor coordination and
+cooperation among aid agencies etc.</para>
+<para id="id14524096">The second issue which the thesis addressed
+has been how the relation between aid and growth varies across the
+regions. Aid to the Sub-Sahara has had an adverse effect on growth.
+This is consistent with findings of other authors. Sub-Sahara is
+the region with largest amount of aid provided by donors but the
+economic performance remains fairly poor. This shows that large
+amount of aid does not necessarily guarantee growth. What really
+matters is the quality of aid. From donors’ side, it requires the
+appropriately designed programs, timely and sufficient
+disbursement, good conditionality and strict penalty upon deviation
+or violation etc. From the recipients’ side, it requires good
+macroeconomic management and institutions. These actually are
+problems, with which Sub-Sahara region is facing now. Therefore,
+aid programs should be designed in such a way that they support
+countries in this region to build their own capacity in management.
+Policymakers training, intensive human capital investments and
+better partnership between donor community and local governments
+should be first priorities. Needless to say, fighting against
+corruption and aid dependency is extremely important.</para>
+<para id="id10511528">In short, the initiative and strong
+commitment of local governments is a necessary condition whereas
+the appropriate and efficient assistance from donor community is
+the sufficient condition to make aid work effectively in
+Sub-Saharan Africa.</para>
+<para id="id12676160">During the period 1992-2000, foreign aid to
+South Asian nations has been found to contribute to growth.
+Surprisingly, the results also show that foreign aid to the studied
+inland countries has a positive impact on growth. Obviously, other
+developing countries can learn from the successful experience of
+South Asian and inland countries in the study. The intensive
+investment in human capital in Jordan and Sri Lanka, good policy
+environment in Benin and Botswana and active role of the donor and
+NGO community in Bangladesh, Mali and Rwanda provide policymakers a
+good “food for thought” in aid management. These experiences might
+not necessarily be applicable everywhere but surely they help
+donors and policymakers in other countries to understand better
+about what make aid work well in developing countries.</para>
+<para id="id10449712">Finally, a strong evidence of divergence has
+been found in the study implying that if the situation remains
+unchanged, the income dispersion among developing countries might
+be further increase in the future.</para>
+<para id="id10151292">Table 1. Regressions for sub-period
+1975-1991</para>
+<table id="id10492388" summary="">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<tbody>
+<row>
+<entry>Estimation method</entry>
+<entrytbl namest="c2" nameend="c4" cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row>
+<entry>(1)</entry>
+<entry>(2)</entry>
+<entry>(3)</entry>
+</row>
+<row>
+<entry>White</entry>
+<entry>OLS</entry>
+<entry>OLS</entry>
+</row>
+</tbody>
+</entrytbl>
+</row>
+<row>
+<entry>Dependent variables</entry>
+<entry namest="c2" nameend="c4">Per capita GDP growth from 1975 to
+1991</entry>
+</row>
+<row>
+<entry>Constant</entry>
+<entry>1.34(4.79)</entry>
+<entry>1.34(2.35)</entry>
+<entry>1.37(3.35)</entry>
+</row>
+<row>
+<entry>GDP1975</entry>
+<entry>0.81***(13.92)</entry>
+<entry>0.77***(8.25)</entry>
+<entry>0.82***(12.54)</entry>
+</row>
+<row>
+<entry>SAVING</entry>
+<entry>-0.01(-0.45)</entry>
+<entry>-0.05(-0.94)</entry>
+<entry>0.042(0.67)</entry>
+</row>
+<row>
+<entry>FDI</entry>
+<entry>0.019(0.78)</entry>
+<entry>0.035(0.91)</entry>
+<entry>0.003(0.09)</entry>
+</row>
+<row>
+<entry>ODA</entry>
+<entry>-0.080***(-2.15)</entry>
+<entry>-0.07**(-1.56)</entry>
+<entry>-0.076***(-2.01)</entry>
+</row>
+<row>
+<entry>ODA*EASTASIA</entry>
+<entry>Not included</entry>
+<entry>0.027(0.11)</entry>
+<entry>Not included</entry>
+</row>
+<row>
+<entry>ODA*SOUTHASIA</entry>
+<entry>Not included</entry>
+<entry>-0.076(-0.16)</entry>
+<entry>Not included</entry>
+</row>
+<row>
+<entry>ODA*SUBSAHARA</entry>
+<entry>Not included</entry>
+<entry>-0.14**(-1.38)</entry>
+<entry>Not included</entry>
+</row>
+<row>
+<entry>ODA*INLAND</entry>
+<entry>Not included</entry>
+<entry>Not included</entry>
+<entry>0.09*(1.14)</entry>
+</row>
+<row>
+<entry>SCHOOL</entry>
+<entry>0.12***(2.04)</entry>
+<entry>-0.00012(-0.0013)</entry>
+<entry>0.012(0.13)</entry>
+</row>
+<row>
+<entry>TRADE</entry>
+<entry>0.0028**(1.66)</entry>
+<entry>0.003***(2.22)</entry>
+<entry>0.0016*(1.29)</entry>
+</row>
+<row>
+<entry>POPULATION</entry>
+<entry>0.01(0.22)</entry>
+<entry>-0.013(-0.25)</entry>
+<entry>-0.021(0.45)</entry>
+</row>
+<row>
+<entry>EASTASIA</entry>
+<entry>Not included</entry>
+<entry>-0.037(-0.35)</entry>
+<entry>0.18(0.13)</entry>
+</row>
+<row>
+<entry>SOUTHASIA</entry>
+<entry>Not included</entry>
+<entry>-0.10**(-1.32)</entry>
+<entry>-0.003(-0.017)</entry>
+</row>
+<row>
+<entry>SUBSAHARA</entry>
+<entry>Not included</entry>
+<entry>-0.23**(-1.65)</entry>
+<entry>-0.19**(-1.46)</entry>
+</row>
+<row>
+<entry>INLAND</entry>
+<entry>Not included</entry>
+<entry>Not included</entry>
+<entry>0.44**(1.38)</entry>
+</row>
+<row>
+<entry>Observations</entry>
+<entry>39</entry>
+<entry>39</entry>
+<entry>39</entry>
+</row>
+<row>
+<entry>R-squared</entry>
+<entry>0.97</entry>
+<entry>0.97</entry>
+<entry>0.97</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id10861495">Notes:* Significant at the 15% level</para>
+<para id="id6164363">** Significant at the 10% level</para>
+<para id="id14938003">***Significant at the 5% level</para>
+<para id="id5268710">Values in parenthesis are t-statistic</para>
+<para id="id5597598">Table 2. Regressions for sub- period
+1992-2000</para>
+<table id="id9089099" summary="">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<tbody>
+<row>
+<entry>Estimation method</entry>
+<entrytbl namest="c2" nameend="c4" cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row>
+<entry>(4)</entry>
+<entry>(5)</entry>
+<entry>(6)</entry>
+</row>
+<row>
+<entry>White</entry>
+<entry>White</entry>
+<entry>White</entry>
+</row>
+</tbody>
+</entrytbl>
+</row>
+<row>
+<entry>Dependent variables</entry>
+<entry namest="c2" nameend="c4">Per capita GDP growth from 1992 to
+2000</entry>
+</row>
+<row>
+<entry>Constant</entry>
+<entry>0.55(2.44)</entry>
+<entry>0.38(1.21)</entry>
+<entry>0.57(2.40)</entry>
+</row>
+<row>
+<entry>GDP1992</entry>
+<entry>0.95***(35.16)</entry>
+<entry>0.98***(28.44)</entry>
+<entry>0.95***(32.91)</entry>
+</row>
+<row>
+<entry>SAVING</entry>
+<entry>0.031***(1.99)</entry>
+<entry>0.018(0.83)</entry>
+<entry>0.04***(2.46)</entry>
+</row>
+<row>
+<entry>FDI</entry>
+<entry>-0.001(-0.19)</entry>
+<entry>-0.0003(-0.03)</entry>
+<entry>-0.0015(-0.17)</entry>
+</row>
+<row>
+<entry>ODA</entry>
+<entry>-0.020***(-1.80)</entry>
+<entry>-0.0057(-0.56)</entry>
+<entry>-0.02**(1.60)</entry>
+</row>
+<row>
+<entry>ODA*EASTASIA</entry>
+<entry>Not included</entry>
+<entry>-0.058*(-1.13)</entry>
+<entry>Not included</entry>
+</row>
+<row>
+<entry>ODA*SOUTHASIA</entry>
+<entry>Not included</entry>
+<entry>0.064*(1.15)</entry>
+<entry>Not included</entry>
+</row>
+<row>
+<entry>ODA*SUBSAHARA</entry>
+<entry>Not included</entry>
+<entry>-0.0016(-0.03)</entry>
+<entry>Not included</entry>
+</row>
+<row>
+<entry>ODA*INLAND</entry>
+<entry>Not included</entry>
+<entry>Not included</entry>
+<entry>0.041**(1.42)</entry>
+</row>
+<row>
+<entry>SCHOOL</entry>
+<entry>0.059***(2.39)</entry>
+<entry>0.048*(1.20)</entry>
+<entry>0.068***(2.50)</entry>
+</row>
+<row>
+<entry>TRADE</entry>
+<entry>0.0005***(2.32)</entry>
+<entry>0.00002(0.05)</entry>
+<entry>0.00057***(2.42)</entry>
+</row>
+<row>
+<entry>POPULATION</entry>
+<entry>-0.026*(-1.11)</entry>
+<entry>-0.021(-0.71)</entry>
+<entry>-0.019(-0.85)</entry>
+</row>
+<row>
+<entry>EASTASIA</entry>
+<entry>Not included</entry>
+<entry>-0.24(-0.92)</entry>
+<entry>0.087***(1.70)</entry>
+</row>
+<row>
+<entry>SOUTHASIA</entry>
+<entry>Not included</entry>
+<entry>0.24(0.97)</entry>
+<entry>0.28*(1.20)</entry>
+</row>
+<row>
+<entry>SUBSAHARA</entry>
+<entry>Not included</entry>
+<entry>-0.02(-0.14)</entry>
+<entry>-0.015(-0.55)</entry>
+</row>
+<row>
+<entry>INLANDObservations</entry>
+<entry>Not included39</entry>
+<entry>Not included39</entry>
+<entry>0.13**(1.39)39</entry>
+</row>
+<row>
+<entry>R-squared</entry>
+<entry>0.99</entry>
+<entry>0.99</entry>
+<entry>0.99</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id10352380">Notes:* Significant at the 15% level</para>
+<para id="id5577903">** Significant at the 10% level</para>
+<para id="id10495933">***Significant at the 5% level</para>
+<para id="id10495939">Values in parenthesis are t-statistic</para>
+<para id="id14408322">Table 3. Regressions for overall period
+1975-2000</para>
+<table id="id10488652" summary="">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<tbody>
+<row>
+<entry>Estimation method</entry>
+<entrytbl namest="c2" nameend="c4" cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row>
+<entry>(7)</entry>
+<entry>(8)</entry>
+<entry>(9)</entry>
+</row>
+<row>
+<entry>White</entry>
+<entry>OLS</entry>
+<entry>OLS</entry>
+</row>
+</tbody>
+</entrytbl>
+</row>
+<row>
+<entry>Dependent variables</entry>
+<entry namest="c2" nameend="c4">Per capita GDP growth from 1975 to
+2000</entry>
+</row>
+<row>
+<entry>Constant</entry>
+<entry>1.79(4.98)</entry>
+<entry>2.11(2.95)</entry>
+<entry>1.95(4.02)</entry>
+</row>
+<row>
+<entry>GDP1975</entry>
+<entry>0.73***(12.71)</entry>
+<entry>0.63***(5.54)</entry>
+<entry>0.74***(10.93)</entry>
+</row>
+<row>
+<entry>SAVING</entry>
+<entry>0.024(0.36)</entry>
+<entry>-0.004(-0.063)</entry>
+<entry>0.11**(1.36)</entry>
+</row>
+<row>
+<entry>FDI</entry>
+<entry>-0.008(-0.35)</entry>
+<entry>-0.022(-0.46)</entry>
+<entry>-0.023(-0.62)</entry>
+</row>
+<row>
+<entry>ODA</entry>
+<entry>-0.11***(-2.92)</entry>
+<entry>-0.11***(-1.95)</entry>
+<entry>-0.11***(2.74)</entry>
+</row>
+<row>
+<entry>ODA*EASTASIA</entry>
+<entry>Not included</entry>
+<entry>-0.088(-0.33)</entry>
+<entry>Not included</entry>
+</row>
+<row>
+<entry>ODA*SOUTHASIA</entry>
+<entry>Not included</entry>
+<entry>-0.24(-0.52)</entry>
+<entry>Not included</entry>
+</row>
+<row>
+<entry>ODA*SUBSAHARA</entry>
+<entry>Not included</entry>
+<entry>-0.18*(-1.21)</entry>
+<entry>Not included</entry>
+</row>
+<row>
+<entry>ODA*INLAND</entry>
+<entry>Not included</entry>
+<entry>Not included</entry>
+<entry>0.14**(1.38)</entry>
+</row>
+<row>
+<entry>SCHOOL</entry>
+<entry>0.13**(1.59)</entry>
+<entry>0.041(0.31)</entry>
+<entry>0.17***(1.98)</entry>
+</row>
+<row>
+<entry>TRADE</entry>
+<entry>0.0043***(3.38)</entry>
+<entry>0.005***(2.88)</entry>
+<entry>0.0043***(3.16)</entry>
+</row>
+<row>
+<entry>POPULATION</entry>
+<entry>-0.046(-0.57)</entry>
+<entry>-0.061(-0.79)</entry>
+<entry>-0.051(-0.88)</entry>
+</row>
+<row>
+<entry>EASTASIA</entry>
+<entry>Not included</entry>
+<entry>-0.60(-0.41)</entry>
+<entry>Not included</entry>
+</row>
+<row>
+<entry>SOUTHASIA</entry>
+<entry>Not included</entry>
+<entry>-0.14(-0.66)</entry>
+<entry>Not included)</entry>
+</row>
+<row>
+<entry>SUBSAHARA</entry>
+<entry>Not included</entry>
+<entry>-0.75**(-1.50)</entry>
+<entry>Not included</entry>
+</row>
+<row>
+<entry>INLANDObservations</entry>
+<entry>Not included39</entry>
+<entry>Not included39</entry>
+<entry>0.64***(1.71)39</entry>
+</row>
+<row>
+<entry>R-squared</entry>
+<entry>0.96</entry>
+<entry>0.96</entry>
+<entry>0.96</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id10568707">Notes:* Significant at the 15% level</para>
+<para id="id3044906">** Significant at the 10% level</para>
+<para id="id8537945">***Significant at the 5% level</para>
+<para id="id7779511">Values in parenthesis are t-statistic</para>
+<para id="id10411126">Figure 1. Total Aid: OECD Official
+Development Assistance</para>
+<para id="id10892546">and Adjusted Official Aid</para>
+<figure id="id6497673">
+<media id="idm688800" alt=""><image src="Graphic1" mime-type="image/png"/></media>
+</figure>
+<para id="id10366414">Figure 2. The Gap between Model and Reality
+in Zambia, 1961-1964</para>
+<figure id="id5803040">
+<media id="idm1174384" alt=""><image src="Graphic2" mime-type="image/png"/></media>
+</figure>
+<para id="id10255744">Figure 3. Economic Management and Growth in
+Selected Developing Countries</para>
+<figure id="id10448511">
+<media id="idm197872" alt=""><image src="Graphic3" mime-type="image/png"/></media>
+</figure>
+<para id="id14559782">Appendix</para>
+<para id="id10382022">Appendix 1.Income poverty by region</para>
+<table id="id14918865" summary="">
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>Region</entry>
+<entrytbl namest="c2" nameend="c6" cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<tbody>
+<row>
+<entry namest="c1" nameend="c5">Share of population living on less
+than US$1 a day (percent)</entry>
+</row>
+<row>
+<entry>1987</entry>
+<entry>1990</entry>
+<entry>1993</entry>
+<entry>1996</entry>
+<entry>1998</entry>
+</row>
+</tbody>
+</entrytbl>
+</row>
+<row>
+<entry>East Asia and PacificExcluding China</entry>
+<entry>26.623.9</entry>
+<entry>27.618.5</entry>
+<entry>25.215.9</entry>
+<entry>14.910.0</entry>
+<entry>15.311.3</entry>
+</row>
+<row>
+<entry>Europe and Central Asia</entry>
+<entry>0.2</entry>
+<entry>1.6</entry>
+<entry>4.0</entry>
+<entry>5.1</entry>
+<entry>5.1</entry>
+</row>
+<row>
+<entry>Latin America and the Caribbean</entry>
+<entry>15.3</entry>
+<entry>16.8</entry>
+<entry>15.3</entry>
+<entry>15.6</entry>
+<entry>15.6</entry>
+</row>
+<row>
+<entry>Middle East and North Africa</entry>
+<entry>4.3</entry>
+<entry>2.4</entry>
+<entry>1.9</entry>
+<entry>1.8</entry>
+<entry>1.9</entry>
+</row>
+<row>
+<entry>South Asia</entry>
+<entry>44.9</entry>
+<entry>44.0</entry>
+<entry>42.4</entry>
+<entry>42.3</entry>
+<entry>40.0</entry>
+</row>
+<row>
+<entry>Sub-Saharan Africa</entry>
+<entry>46.6</entry>
+<entry>47.7</entry>
+<entry>49.7</entry>
+<entry>48.5</entry>
+<entry>46.3</entry>
+</row>
+<row>
+<entry>TotalExcluding China</entry>
+<entry>28.328.5</entry>
+<entry>29.028.1</entry>
+<entry>28.127.7</entry>
+<entry>24.527.0</entry>
+<entry>24.026.2</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id5480348">Source: World Bank World Development Report
+2000/2001, Attacking Poverty</para>
+<para id="id4883630">Appendix 2.Regional profile</para>
+<table id="id10321113" summary="">
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>Region</entry>
+<entry>Population</entry>
+<entry>Population growth (%)</entry>
+<entry>GDP growth rate (%)</entry>
+<entry>2002 GNI per capita</entry>
+<entry>Life expectancy</entry>
+</row>
+<row>
+<entry>East Asia &amp; Pacific</entry>
+<entry>1.8 billion</entry>
+<entry>0.9</entry>
+<entry>6.7</entry>
+<entry>US$ 950</entry>
+<entry>69.4</entry>
+</row>
+<row>
+<entry>Europe &amp; Central Asia</entry>
+<entry>0.5 billion</entry>
+<entry>0.1</entry>
+<entry>4.7</entry>
+<entry>US$ 2,160</entry>
+<entry>69</entry>
+</row>
+<row>
+<entry>Latin America &amp; Caribbean</entry>
+<entry>526.7 million</entry>
+<entry>1.5</entry>
+<entry>-0.5</entry>
+<entry>US$ 3,280</entry>
+<entry>70.7</entry>
+</row>
+<row>
+<entry>Middle East &amp; North Africa</entry>
+<entry>306.2 million</entry>
+<entry>2</entry>
+<entry>3.1</entry>
+<entry>US$ 2,230</entry>
+<entry>68.6</entry>
+</row>
+<row>
+<entry>South Asia</entry>
+<entry>1.4 billion</entry>
+<entry>1.7</entry>
+<entry>4.3</entry>
+<entry>US$ 460</entry>
+<entry>62.8</entry>
+</row>
+<row>
+<entry>Sub-Saharan Africa</entry>
+<entry>0.7 billion</entry>
+<entry>2.2</entry>
+<entry>3.2</entry>
+<entry>US$ 450</entry>
+<entry>46</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id10493865">Source:World Bank Report 2002</para>
+<para id="id14554625">Appendix 3.Country information (Source: World
+Bank, 2002)</para>
+<table id="id10261674" summary="">
+<tgroup cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<tbody>
+<row>
+<entry>Region</entry>
+<entry>Country</entry>
+<entry>Per capita GDP (constant 1995 US$)</entry>
+<entry>Average population growth rate (%)</entry>
+<entry>Average per capita GDP growth rate (%)</entry>
+<entry>ODA per GDP (%)</entry>
+<entry>Remarks</entry>
+</row>
+<row>
+<entry>East Asia &amp;Pacific</entry>
+<entrytbl namest="c2" nameend="c7" cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>China</entry>
+<entry>166.75</entry>
+<entry>1.35</entry>
+<entry>9.65</entry>
+<entry>0.43</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Indonesia</entry>
+<entry>503.01</entry>
+<entry>1.85</entry>
+<entry>5.57</entry>
+<entry>0.92</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Malaysia</entry>
+<entry>2297.12</entry>
+<entry>2.59</entry>
+<entry>6.65</entry>
+<entry>0.30</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Philippines</entry>
+<entry>1172.86</entry>
+<entry>2.42</entry>
+<entry>2.49</entry>
+<entry>0.73</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Thailand</entry>
+<entry>1116.28</entry>
+<entry>1.69</entry>
+<entry>6.21</entry>
+<entry>0.39</entry>
+<entry>Coastal</entry>
+</row>
+</tbody>
+</entrytbl>
+</row>
+<row>
+<entry>Europe &amp; Central Asia</entry>
+<entrytbl namest="c2" nameend="c7" cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>Malta</entry>
+<entry>4659.15</entry>
+<entry>0.70</entry>
+<entry>4.55</entry>
+<entry>0.75</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Turkey</entry>
+<entry>1955.73</entry>
+<entry>2.05</entry>
+<entry>4.14</entry>
+<entry>0.32</entry>
+<entry>Coastal</entry>
+</row>
+</tbody>
+</entrytbl>
+</row>
+<row>
+<entry>Latin America&amp; &amp;Caribbean</entry>
+<entrytbl namest="c2" nameend="c7" cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>Argentina</entry>
+<entry>7787.13</entry>
+<entry>1.44</entry>
+<entry>1.77</entry>
+<entry>0.33</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Barbados</entry>
+<entry>6754.91</entry>
+<entry>0.35</entry>
+<entry>1.75</entry>
+<entry>0.25</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Bolivia</entry>
+<entry>1016.14</entry>
+<entry>2.22</entry>
+<entry>1.82</entry>
+<entry>4.60</entry>
+<entry>Inland</entry>
+</row>
+<row>
+<entry>Brazil</entry>
+<entry>4256.54</entry>
+<entry>1.92</entry>
+<entry>2.51</entry>
+<entry>0.15</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Chile</entry>
+<entry>2665.03</entry>
+<entry>1.58</entry>
+<entry>5.39</entry>
+<entry>0.08</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Colombia</entry>
+<entry>1867.70</entry>
+<entry>2.08</entry>
+<entry>3.11</entry>
+<entry>0.09</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Costa Rica</entry>
+<entry>3097.33</entry>
+<entry>2.75</entry>
+<entry>3.72</entry>
+<entry>0.98</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Honduras</entry>
+<entry>731.40</entry>
+<entry>3.10</entry>
+<entry>2.74</entry>
+<entry>14.67</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Jamaica</entry>
+<entry>1953.79</entry>
+<entry>1.03</entry>
+<entry>1.12</entry>
+<entry>2.18</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Paraguay</entry>
+<entry>1878.32</entry>
+<entry>2.96</entry>
+<entry>3.00</entry>
+<entry>0.77</entry>
+<entry>Inland</entry>
+</row>
+<row>
+<entry>Peru</entry>
+<entry>2568.62</entry>
+<entry>2.25</entry>
+<entry>1.86</entry>
+<entry>0.37</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Uruguay</entry>
+<entry>5473.83</entry>
+<entry>0.65</entry>
+<entry>1.82</entry>
+<entry>0.12</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Venezuela</entry>
+<entry>3991.19</entry>
+<entry>2.67</entry>
+<entry>1.24</entry>
+<entry>0.03</entry>
+<entry>Coastal</entry>
+</row>
+</tbody>
+</entrytbl>
+</row>
+<row>
+<entry>Middle East &amp;North Africa</entry>
+<entrytbl namest="c2" nameend="c7" cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>Cyprus</entry>
+<entry>6352.21</entry>
+<entry>0.91</entry>
+<entry>4.17</entry>
+<entry>0.45</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Egypt, Arab Rep.</entry>
+<entry>731.40</entry>
+<entry>2.34</entry>
+<entry>5.16</entry>
+<entry>4.41</entry>
+<entry>Inland</entry>
+</row>
+<row>
+<entry>Jordan</entry>
+<entry>1814.61</entry>
+<entry>4.15</entry>
+<entry>4.38</entry>
+<entry>14.76</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Morocco</entry>
+<entry>1113.93</entry>
+<entry>2.09</entry>
+<entry>3.21</entry>
+<entry>1.73</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Tunisia</entry>
+<entry>1640.85</entry>
+<entry>2.30</entry>
+<entry>4.34</entry>
+<entry>1.46</entry>
+<entry>Coastal</entry>
+</row>
+</tbody>
+</entrytbl>
+</row>
+<row>
+<entry>South Asia</entry>
+<entrytbl namest="c2" nameend="c7" cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>Bangladesh</entry>
+<entry>248.54</entry>
+<entry>2.29</entry>
+<entry>4.13</entry>
+<entry>4.46</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Pakistan</entry>
+<entry>318.05</entry>
+<entry>2.71</entry>
+<entry>5.36</entry>
+<entry>2.29</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Sri Lanka</entry>
+<entry>455.07</entry>
+<entry>1.23</entry>
+<entry>4.76</entry>
+<entry>4.08</entry>
+<entry>Coastal</entry>
+</row>
+</tbody>
+</entrytbl>
+</row>
+<row>
+<entry>Sub-SaharanAfrica</entry>
+<entrytbl namest="c2" nameend="c7" cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>Benin</entry>
+<entry>362.38</entry>
+<entry>2.93</entry>
+<entry>0.88</entry>
+<entry>8.90</entry>
+<entry>Inland</entry>
+</row>
+<row>
+<entry>Botswana</entry>
+<entry>1538.22</entry>
+<entry>3.36</entry>
+<entry>8.33</entry>
+<entry>3.20</entry>
+<entry>Inland</entry>
+</row>
+<row>
+<entry>Cameroon</entry>
+<entry>724.14</entry>
+<entry>2.81</entry>
+<entry>2.30</entry>
+<entry>4.45</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Cote d’Ivoire</entry>
+<entry>1045.34</entry>
+<entry>3.57</entry>
+<entry>1.16</entry>
+<entry>4.36</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Kenya</entry>
+<entry>337.43</entry>
+<entry>3.28</entry>
+<entry>3.02</entry>
+<entry>7.92</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Mali</entry>
+<entry>305.39</entry>
+<entry>2.44</entry>
+<entry>2.15</entry>
+<entry>7.94</entry>
+<entry>Inland</entry>
+</row>
+<row>
+<entry>Mauritania</entry>
+<entry>485.34</entry>
+<entry>2.55</entry>
+<entry>2.90</entry>
+<entry>24.17</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Rwanda</entry>
+<entry>321.10</entry>
+<entry>2.04</entry>
+<entry>2.81</entry>
+<entry>14.45</entry>
+<entry>Inland</entry>
+</row>
+<row>
+<entry>Senegal</entry>
+<entry>551.94</entry>
+<entry>2.73</entry>
+<entry>3.02</entry>
+<entry>12.18</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Swaziland</entry>
+<entry>1133.53</entry>
+<entry>3.12</entry>
+<entry>5.34</entry>
+<entry>3.56</entry>
+<entry>Coastal</entry>
+</row>
+<row>
+<entry>Togo</entry>
+<entry>466.30</entry>
+<entry>2.73</entry>
+<entry>1.93</entry>
+<entry>10.78</entry>
+<entry>Coastal</entry>
+</row>
+</tbody>
+</entrytbl>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id10476919">REFERENCES</para>
+<para id="id10495963">Alesina, Alberto and Dollar, David (1998).
+“Who Gives Foreign Aid to Whom and Why?” NBER Working Paper
+No.6612</para>
+<para id="id10302804">Barro, Robert J. (1991). “Economic Growth in
+a Cross Section of Countries.” The Quarterly Journal of
+Economics</para>
+<para id="id13401765">Burnside, Craig and Dollar, David (1997).
+“Aid, Policies and Growth.” The American Economic Review-, 90(4),
+847-868</para>
+<para id="id10506701">Burnside, Craig and Dollar, David (1998).
+“Aid, the Incentive Regime, and Poverty Reduction”. Policy Research
+Working Paper 1937. World Bank, Development Research Group,
+Washington D.C.</para>
+<para id="id14725118">Chang, Charles C.; Fernandeze-Arias, Eduardo
+and Serven, Luis (1998). “Measuring Aid Flows: A New Approach”.
+World Bank, Development Research Group, Washington D.C.</para>
+<para id="id10855198">Chenery, Hollis and Strout, Alan (1966).
+“Foreign Assistance and Economic Development.” American Economic
+Review 56, pp.679-733</para>
+<para id="id10504911">Chenery, Hollis B. and Carter, Nicholas G.
+(1973). “Foreign Assistance and Development Performance,
+1960-1970.” American Economic Association, Vol.63, No.2</para>
+<para id="id2955017">Collier, Paul and Dehn, Jan (2001). “Aid,
+Shocks, and Growth.” World Bank Policy Research Working
+Paper</para>
+<para id="id10889218">Collier, Paul and Gunning, John (1999).
+“Explaining African Economic Performance.” Journal of Economic
+Literature 37 (1), pp.64-111</para>
+<para id="id8489131">Collier, Paul and Dollar, David. “Aid
+Allocation and Poverty Reduction.” Development Research Group,
+World Bank</para>
+<para id="id3650760">Dacy, Douglas C. (1975). “Foreign Aid,
+Government Consumption, Saving and Growth in Less-Developed
+Countries.” The Economic Journal, 85, pp548-561</para>
+<para id="id13699748">Easterly, William (1997). “The Ghost of
+Financing Gap”. Policy Research Working Paper 1807. World Bank,
+Development Research Group, Washington D.C.</para>
+<para id="id9066294">Easterly, William; Levine, Ross and Roodman,
+David (2003). “New Data, New Doubts: A Comment on Burnside and
+Dollar’s ”Aid, Policies and Growth.” NBER Working Paper
+No.9846</para>
+<para id="id10405451">Fayissa, Bichaka and El-Kaissy, Mohamed I.
+(1999). “Foreign Aid and Economic Growth of Developing Countries
+(LDCs): Further Evidence.” Studies in Comparative International
+Development</para>
+<para id="id10885988">Gallup, John Luke; Sachs D., Jeffrey and
+Mellinger, Andrew D. (August 1999). “Geography and Economic
+Development.” International Regional Science Review 22, 2;
+pp.179-232</para>
+<para id="id9822644">Giles, Judith A. (1994). “Another Look At the
+Evidence On Foreign Aid Led Economic Growth.” Applied Economics
+Letters, pp.194-199</para>
+<para id="id14151131">Gong, Liutang and Zou, Heng-fu (2001).
+“Foreign Aid Reduces Labor Supply and Capital Accumulation.” Review
+of Development Economics, 5(1), pp105-118</para>
+<para id="id12420014">Graham, Carol and O’Hanlon, Michael (2001).
+“Making Foreign Aid Works.” Foreign Affairs, Volume 76, No.4</para>
+<para id="id3972231">Islam, Anisul (1992). “Foreign Aid and
+Economic Growth: An Econometric study of Bangladesh.” Applied
+Econometrics 24, pp.541-544</para>
+<para id="id12478158">Knack, Stephen (2000). “Aid Dependence and
+the Quality of Governance: A Cross-Country Empirical Analysis.”
+World Bank Policy Research Paper</para>
+<para id="id10884941">Krugman, Paul R. and Obsfeld, Maurice (2003).
+“International Economics: Theory and Policy.” Pearson Education,
+Boston, USA</para>
+<para id="id10884946">Mavrotas, George (2003) “Which Types of Aid
+Have Most Impact?” Paper presented at WIDER (World Institute for
+Development Economic Research) Conference on “Sharing Global
+Prosperity”, in Helsinki, Finland</para>
+<para id="id10510808">Mbaku, J.M (1993). “Foreign Aid and Economic
+Growth in Cameroon.” Applied Economics, 25, pp.1309-14</para>
+<para id="id14344960">Morrissey, Oliver (2001). “Does Aid Increase
+Growth?” Progress in Development Studies 1,1, pp.37-50</para>
+<para id="id5306980">Mosley, Paul (1980). “Aid, Savings and Growth
+Revisited.” Bulletin of the Oxford University Institute of
+Economics and Statistics 42, pp.79-95</para>
+<para id="id7663355">Mosely, Paul; Hudson, John; and Horrel,
+Stephan (1987). “Aid, the Public Sector, and the Market in
+Less-Developed Countries.” The Economic Journal, 97,
+pp.616-41</para>
+<para id="id8348438">Outtara, Bazoumana (2003). “Foreign Aid,
+Saving Displacement and Aid Dependency in Cote d’Ivoire: An Aid
+Disaggregation Approach.” University of Manchester, School of
+Economic Studies</para>
+<para id="id9842883">Papanek, G. (1972). “The Effect of Aid and
+Other Resource Transfers on Savings and Growth in Less Developed
+Countries.” Economics Journal 82</para>
+<para id="id10248026">Papanek, G. (1973). “Aid, Foreign Private
+Investment, Savings and Growth in Less Developed Countries.”
+Journal of Political Economy 81, pp.120-130</para>
+<para id="id9995531">Pedersen, Karl R.(1996). “Aid, Investment and
+Incentives.” Scandinavian Journal of Economics 98(3),
+pp.423-438</para>
+<para id="id10859901">Sala-i-Martin, Xavier (1994). “Economic
+Growth Cross-sectional Regressions and the Empirics Economic
+Growth”. European Economic Review 38, pp.739-747</para>
+<para id="id4465363">Sala-i-Martin, Xavier (1996).“The Classical
+Approach To Convergence Analysis.” The Economic Journal 106,
+pp.1019-1036</para>
+<para id="id10570709">Singh, Ram D. (1985). “State Intervention,
+Foreign Economic Aid, Savings and Growth in LDCs: Some Recent
+Evidence.” KYKLOS, Vol.38, Fasc.2, pp.216-232</para>
+<para id="id10497803">Snyder, Donald W. (1993). “Donor Bias Toward
+Small Countries: An Overlooked Factor In the Analysis of Foreign
+Aid and Economic Growth.” Applied Economics, 25, 481-488</para>
+<para id="id10506243">Svensson, Jacob (1998). “Foreign Aid and
+Rent-Seeking.” World Bank Policy Research Paper 1880</para>
+<para id="id10506247">Todaro, Michael P. and Smith, Stephen C.
+(2003). “Economic Development.” Pearson Education Limited, Eighth
+Edition</para>
+<para id="id14939624">World Bank (1998). “Assessing Aid: What
+Works, What Doesn’t and Why.” Oxford University Press, New
+York</para>
+<para id="id14698541">World Bank (2000). “Attacking Poverty.” World
+Development Report 2000/2001, Oxford University Press, New
+York</para>
+<para id="id10517356">World Bank (2002). World Development Report,
+Oxford University Press, New York</para>
+<para id="id13444519">World Bank (2003a). “Bangladesh Country
+Report.” World Bank website www.worldbank.org</para>
+<para id="id14645411">World Bank (2003b). “Pakistan Country
+Report.” World Bank website www.worldbank.org</para>
+<para id="id9841428">World Bank (2003c). “Sri Lanka Country
+Report.” World Bank website www.worldbank.org</para>
+</content>
+</document>
